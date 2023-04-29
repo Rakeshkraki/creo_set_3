@@ -12,7 +12,8 @@ This project is a starting point for a Flutter application .
 2.News page:-
 -after email and password validating navigated to NewsPage
 
-https://github.com/Rakeshkraki/creo_set_3.git
+![Screenshot_20230429_202103](https://user-images.githubusercontent.com/97439056/235310365-d8f46651-562b-4665-ad1f-93fa56f3c313.png)
+
 
 
 A few resources to get you started if this is your first Flutter project:
