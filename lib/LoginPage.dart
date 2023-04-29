@@ -1,6 +1,6 @@
 
-
 import 'package:flutter/material.dart';
+import 'package:my_app/NewsPage.dart';
 
 class LoginPage extends StatefulWidget {
   @override
@@ -15,7 +15,10 @@ class _LoginPageState extends State<LoginPage> {
 
   void _login() {
     if (_formKey.currentState!.validate()) {
-      Navigator.pushReplacementNamed(context, '/Newspage.drt');
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => NewsPage()),
+      );
     }
   }
 
