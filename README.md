@@ -8,7 +8,8 @@ This project is a starting point for a Flutter application .
 1.login page:-
 -login page contain email and password validating
 ![Screenshot_20230429_204142](https://user-images.githubusercontent.com/97439056/235310171-8bdda8e9-fabd-4f64-9b48-daad445068c6.png)
-
+example email:- rakesh@gmail.com
+        password:- r2j73ehg33hg3
 2.News page:-
 -after email and password validating navigated to NewsPage
 
