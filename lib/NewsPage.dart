@@ -129,7 +129,31 @@ class _NewsPageState extends State<NewsPage> {
                 ],
               ),
             ),
-            Image.asset("assets/news3.png",),
+            SizedBox(height: 20.0,width: 10,),
+            InkWell(
+              onTap: () {},
+              child: Container(
+                height: 50,
+                width: 10,
+                decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(),
+                    borderRadius: BorderRadius.circular(30)
+
+                ),
+                child: Center(
+                  child: Text(
+                    'Full coverage of this story',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            Image.asset("assets/flutter.png",),
             SizedBox(height: 10.0,),
             ListTile(
               title: Text(
@@ -151,7 +175,7 @@ class _NewsPageState extends State<NewsPage> {
                 fontSize: 14,
               ),
             ),
-            Image.asset("assets/news4.png",),
+            Image.asset("assets/news22.png",),
             SizedBox(height: 10.0,),
             ListTile(
               title: Text(
