@@ -13,7 +13,13 @@ example email:- rakesh@gmail.com
 2.News page:-
 -after email and password validating navigated to NewsPage
 
-![Screenshot_20230429_202103](https://user-images.githubusercontent.com/97439056/235310365-d8f46651-562b-4665-ad1f-93fa56f3c313.png)
+![Screenshot_20230501_190558](https://user-images.githubusercontent.com/97439056/235463419-9b1c67d0-5a37-4f1e-aeda-8c4230fac9dc.png)
+
+
+![Screenshot_20230501_193118](https://user-images.githubusercontent.com/97439056/235463545-9de86642-f6d1-47ed-a140-127bbd2dbe92.png)
+
+
+![Screenshot_20230501_193205](https://user-images.githubusercontent.com/97439056/235463588-9ea77c4f-7829-4588-9c1c-0e101c5cc9e1.png)
 
 
 
